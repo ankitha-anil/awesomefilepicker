@@ -5,8 +5,8 @@ plugins {
 }
 
 var groupId = "com.github.ankitha-anil"
-var artifactId = "awesome-filepicker"
-var version = "1.0.0"
+var artifactId = "awesomefilepicker"
+var version = "1.0.1"
 
 android {
     namespace = "com.example.awesomefilepicker"
