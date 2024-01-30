@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Awesome Filepicker"
 include(":app")
- 
+include(":filepicker")
+include(":awesomefilepicker")
